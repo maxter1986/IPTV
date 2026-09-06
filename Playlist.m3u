@@ -1,6 +1,102 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· MY GROUP",SPORTSNET 360 ¹
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· MY CHANNELS",SPORTSNET 360 ¹
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239005
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET 360 ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239005
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET 360 ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239004
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET 360 ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239001
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET 360 ⁴
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239006
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET EAST ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238996
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET EAST ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238993
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET EAST ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238997
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET EAST ⁴
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238998
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA: SPORTSN ET EAST ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET EAST ⁵
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238999
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn1.png" group-title="CA· SPORTSNET / TSN",SPORTSNET ONE ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238986
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn1.png" group-title="CA· SPORTSNET / TSN",SPORTSNET ONE ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238988
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn1.png" group-title="CA· SPORTSNET / TSN",SPORTSNET ONE ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238990
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA: SPORTSN ET ONE ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn1.png" group-title="CA· SPORTSNET / TSN",SPORTSNET ONE ⁴
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238991
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET ONTARIO ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238983
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET ONTARIO ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238980
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET ONTARIO ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238982
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET ONTARIO ⁴
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238981
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSN ET ONTARIO ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET ONTARIO ⁵
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238984
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET PACIFIC ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238975
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET PACIFIC ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238974
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET PACIFIC ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238970
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET PACIFIC ⁴
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238973
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSN ET PACIFIC ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET PACIFIC ⁵
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238976
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET WEST ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238967
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET WEST ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238964
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET WEST ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238966
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA: SPORTSN ET WEST ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET / TSN",SPORTSNET WEST ⁴
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238968
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 1 ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239047
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 1 ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239045
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 1 ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239046
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 1 ⁴
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239048
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 2 ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239037
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 2 ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239036
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 2 ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239038
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2 ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 2 ⁴
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239040
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 3 ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239028
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 3 ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239029
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 3 ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239030
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3 ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 3 ⁴
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239032
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 4 ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239021
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 4 ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239022
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 4 ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239020
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA: TSN 4 ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 4 ⁴
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239023
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 5 ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239012
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 5 ²
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239009
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET / TSN",TSN 5 ³
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239011
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA· SPORTSNET / TSN",TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239013
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA· SPORTSNET / TSN",TSN 5 ᴿᴬᵂ
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239014
 #EXTINF:-1 tvg-name="#### CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA· CANADA",#### CANADA ####
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498338
 #EXTINF:-1 tvg-id="ctvcalgary.ca" tvg-name="CA EN: CTV CALGARY" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV CALGARY
@@ -99,7 +195,7 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498758
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498754
 #EXTINF:-1 tvg-id="DejaView.ca" tvg-name="CA: DEJAVIEW" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_dejaview.png" group-title="CA· CANADA",DEJAVIEW
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498753
-#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA: DISCOVERY CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14077.png?26906" group-title="CA· CANADA",DISCOVERY CANADA
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA: DISCOVERY CANADA" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_discovery.png" group-title="CA· CANADA",DISCOVERY CANADA
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498752
 #EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="CA: DISNEY CHANNEL" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_disney.png" group-title="CA· CANADA",DISNEY CHANNEL
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498750
@@ -129,8 +225,6 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498726
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498727
 #EXTINF:-1 tvg-name="CA: GSN" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_gameshow.png" group-title="CA· CANADA",GSN
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498725
-#EXTINF:-1 tvg-name="CA: GUSTO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2307.png?86847" group-title="CA· CANADA",GUSTO
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498724
 #EXTINF:-1 tvg-name="CA: H2 CANADA" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_h2.png" group-title="CA· CANADA",H2 CANADA
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498723
 #EXTINF:-1 tvg-id="HBO.ca" tvg-name="CA: HBO 1" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_hbo1.png" group-title="CA· CANADA",HBO 1
@@ -195,8 +289,6 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498674
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498665
 #EXTINF:-1 tvg-name="CA: TCM" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tcm.png" group-title="CA· CANADA",TCM
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498660
-#EXTINF:-1 tvg-name="CA: TFO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8341.jpg?49976" group-title="CA· CANADA",TFO
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498655
 #EXTINF:-1 tvg-name="CA: THE WEATHER NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9935.jpg?10658" group-title="CA· CANADA",THE WEATHER NETWORK
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498654
 #EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA: TLC CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?53267" group-title="CA· CANADA",TLC CANADA
@@ -213,39 +305,39 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498711
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498645
 #EXTINF:-1 tvg-name="CA: WGN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12645.jpg?51000" group-title="CA· CANADA",WGN
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498644
-#EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA EN: A&E CANADA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9712.jpg?88579" group-title="CA· CINEMA EN",A&E CANADA
+#EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA EN: A&E CANADA HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_ae.png" group-title="CA· CINEMA EN",A&E CANADA
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414082
-#EXTINF:-1 tvg-name="CA EN: ABC SPARK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12725.jpg?47891" group-title="CA· CINEMA EN",ABC SPARK
+#EXTINF:-1 tvg-name="CA EN: ABC SPARK" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_abcspark.png" group-title="CA· CINEMA EN",ABC SPARK
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414156
-#EXTINF:-1 tvg-id="CMT.ca" tvg-name="CA EN: CMT SD (CA)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1872.jpg?27539" group-title="CA· CINEMA EN",CMT SD
+#EXTINF:-1 tvg-id="CMT.ca" tvg-name="CA EN: CMT SD (CA)" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_cmt.png" group-title="CA· CINEMA EN",CMT
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414209
-#EXTINF:-1 tvg-id="LifetimeTV.ca" tvg-name="CA EN: LIFETIME HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8213.jpg?83946" group-title="CA· CINEMA EN",LIFETIME
+#EXTINF:-1 tvg-id="LifetimeTV.ca" tvg-name="CA EN: LIFETIME HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_lifetime-us.png" group-title="CA· CINEMA EN",LIFETIME
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414084
 #EXTINF:-1 tvg-name="CA EN: RIDE TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13058.jpg?19201" group-title="CA· CINEMA EN",RIDE TV
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414164
-#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="CA EN: SHOWCASE(R)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10141.jpg?ver=8904" group-title="CA· CINEMA EN",SHOWCASE
+#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="CA EN: SHOWCASE(R)" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_showcase.png" group-title="CA· CINEMA EN",SHOWCASE
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414110
 #EXTINF:-1 tvg-id="SuperChannelVAULT.ca" tvg-name="CA EN: SUPER CHANNEL VAULT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3100.jpg?42483" group-title="CA· CINEMA EN",SUPER CHANNEL VAULT
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414064
-#EXTINF:-1 tvg-name="CA EN: TCM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7881.jpg?16221" group-title="CA· CINEMA EN",TCM
+#EXTINF:-1 tvg-name="CA EN: TCM" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tcm.png" group-title="CA· CINEMA EN",TCM
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414109
-#EXTINF:-1 tvg-id="AnimalPlanet.ca" tvg-name="CA EN: ANIMAL PLANET HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?10765" group-title="CA· DOCUMENTARY",ANIMAL PLANET
+#EXTINF:-1 tvg-id="AnimalPlanet.ca" tvg-name="CA EN: ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_animalplanet.png" group-title="CA· DOCUMENTARY",ANIMAL PLANET
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414083
-#EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA EN: CRIME + INVERSTIGATION" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?7537" group-title="CA· DOCUMENTARY",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA EN: CRIME + INVERSTIGATION" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_crime.png" group-title="CA· DOCUMENTARY",CRIME INVESTIGATION
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414073
-#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA EN: DISCOVERY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?24942" group-title="CA· DOCUMENTARY",DISCOVERY
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA EN: DISCOVERY HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_discovery.png" group-title="CA· DOCUMENTARY",DISCOVERY
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414076
-#EXTINF:-1 tvg-name="CA EN: DISCOVERY SCIENCE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?49458" group-title="CA· DOCUMENTARY",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="CA EN: DISCOVERY SCIENCE" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_discovery.png" group-title="CA· DOCUMENTARY",DISCOVERY SCIENCE
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414077
-#EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="CA EN: DISCOVERY VELOCITY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8269.jpg?3946" group-title="CA· DOCUMENTARY",DISCOVERY VELOCITY
+#EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="CA EN: DISCOVERY VELOCITY HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_discovery.png" group-title="CA· DOCUMENTARY",DISCOVERY VELOCITY
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414078
 #EXTINF:-1 tvg-name="CA EN: H2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?76403" group-title="CA· DOCUMENTARY",H2 HISTORY
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414090
 #EXTINF:-1 tvg-id="historia.ca" tvg-name="CA EN: HISTORY HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_history.png" group-title="CA· DOCUMENTARY",HISTORY
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414091
-#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA EN: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?10713" group-title="CA· DOCUMENTARY",NAT GEO WILD
+#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA EN: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_natgeo.png" group-title="CA· DOCUMENTARY",NAT GEO WILD
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414081
-#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA EN: NATIONAL GEOGRAPHIC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?97881" group-title="CA· DOCUMENTARY",NAT GEOGRAPHIC
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA EN: NATIONAL GEOGRAPHIC HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_natgeo.png" group-title="CA· DOCUMENTARY",NAT GEOGRAPHIC
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414080
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA EN: AMC 4K" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_amc.png" group-title="CA· GENERAL",AMC
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414092
@@ -493,102 +585,6 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414140
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414139
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA EN: TSN 5" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTS",TSN 5
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414138
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET 360 ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239005
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET 360 ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239004
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET 360 ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239001
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET 360 ⁴
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239006
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET EAST ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238996
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET EAST ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238993
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET EAST ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238997
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET EAST ⁴
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238998
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA: SPORTSN ET EAST ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET EAST ⁵
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238999
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn1.png" group-title="CA· SPORTSNET · TSN",SPORTSNET ONE ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238986
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn1.png" group-title="CA· SPORTSNET · TSN",SPORTSNET ONE ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238988
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn1.png" group-title="CA· SPORTSNET · TSN",SPORTSNET ONE ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238990
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA: SPORTSN ET ONE ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn1.png" group-title="CA· SPORTSNET · TSN",SPORTSNET ONE ⁴
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238991
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET ONTARIO ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238983
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET ONTARIO ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238980
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET ONTARIO ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238982
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET ONTARIO ⁴
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238981
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA: SPORTSN ET ONTARIO ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET ONTARIO ⁵
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238984
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET PACIFIC ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238975
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET PACIFIC ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238974
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET PACIFIC ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238970
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET PACIFIC ⁴
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238973
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA: SPORTSN ET PACIFIC ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET PACIFIC ⁵
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238976
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET WEST ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238967
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET WEST ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238964
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET WEST ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238966
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA: SPORTSN ET WEST ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· SPORTSNET · TSN",SPORTSNET WEST ⁴
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1238968
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 1 ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239047
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 1 ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239045
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 1 ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239046
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 1 ⁴
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239048
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 2 ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239037
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 2 ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239036
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 2 ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239038
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2 ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 2 ⁴
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239040
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 3 ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239028
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 3 ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239029
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 3 ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239030
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3 ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 3 ⁴
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239032
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 4 ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239021
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 4 ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239022
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 4 ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239020
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA: TSN 4 ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 4 ⁴
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239023
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 5 ¹
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239012
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 5 ²
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239009
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tsn.png" group-title="CA· SPORTSNET · TSN",TSN 5 ³
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239011
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA· SPORTSNET · TSN",TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239013
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA: TSN 5 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA· SPORTSNET · TSN",TSN 5 ᴿᴬᵂ
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239014
 #EXTINF:-1 tvg-name="EN  -  The Interview (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIDC4xT65l7a8qbgg8GvwD5g8c5.jpg" group-title="EN - 2020 & OLDER",EN  -  The Interview (2014)
 https://operator2.fikar.xyz/movie/3w4cj593l3/6a2r5932au/1857146.mkv
 #EXTINF:-1 tvg-name="EN -  Best in Show (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oH3usecZHZYHOLpDrWAXUQ7Qaua.jpg" group-title="EN - 2020 & OLDER",EN -  Best in Show (2000)
@@ -35287,38 +35283,30 @@ https://operator2.fikar.xyz/movie/3w4cj593l3/6a2r5932au/156111.mp4
 https://operator2.fikar.xyz/movie/3w4cj593l3/6a2r5932au/373485.mp4
 #EXTINF:-1 tvg-name="EN - Young Guns  (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIdApUSKl71XDyeuoNzRnivOQIJ.jpg" group-title="EN - WESTERNS",EN - Young Guns  (1988)
 https://operator2.fikar.xyz/movie/3w4cj593l3/6a2r5932au/369580.mp4
-#EXTINF:-1 tvg-name="#### DOCUMENTARY HD/4K ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",#### DOCUMENTARY HD/4K ####
+#EXTINF:-1 tvg-name="#### DOCUMENTARY HD/4K ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK· DOCUMENTARY",#### DOCUMENTARY ####
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1015421
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: : NATIONAL GEOGRAPHIC +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6620.png?67556" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: : NATIONAL GEOGRAPHIC +1 ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/402155
-#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK: : NATIONAL GEOGRAPHIC WILD 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?91005" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: : NATIONAL GEOGRAPHIC WILD 4K ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162381
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: CRIME INVESTIGATION +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?81264" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: CRIME INVESTIGATION +1 ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/402156
-#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK: DISCOVERY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: DISCOVERY
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162387
-#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK: DISCOVERY 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: DISCOVERY 4K ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162375
-#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK: DISCOVERY HISTORY ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: DISCOVERY HISTORY ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162388
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK: DISCOVERY SCIENCE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: DISCOVERY SCIENCE ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162390
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK: DISCOVERY TURBO ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: DISCOVERY TURBO ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162392
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: HISTORY 2 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: HISTORY 2 4K ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162379
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: HISTORY 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: HISTORY 4K ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162378
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: INVESTIGATION DISCOVERY +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: INVESTIGATION DISCOVERY +1 ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/402153
-#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="UK: INVESTIGATION DISCOVERY ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: INVESTIGATION DISCOVERY ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162396
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: LOVE NATURE 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10167.jpg?30673" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: LOVE NATURE 4K ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162385
-#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK: SKY NATURE 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?52263" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: SKY NATURE 4K ◉
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162384
-#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK:: NATIONAL GEOGRAPHIC 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/616.png?39036" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK:: NATIONAL GEOGRAPHIC 4K ◉
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK:: NATIONAL GEOGRAPHIC 4K ◉" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_natgeo.png" group-title="UK· DOCUMENTARY",NAT GEOGRAPHIC
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162380
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK: : NATIONAL GEOGRAPHIC WILD 4K ◉" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_natgeo.png" group-title="UK· DOCUMENTARY",NAT GEOGRAPHIC WILD
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162381
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK: DISCOVERY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="UK· DOCUMENTARY",DISCOVERY
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162387
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK: DISCOVERY HISTORY ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="UK· DOCUMENTARY",DISCOVERY HISTORY
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162388
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK: DISCOVERY SCIENCE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="UK· DOCUMENTARY",DISCOVERY SCIENCE
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162390
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK: DISCOVERY TURBO ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="UK· DOCUMENTARY",DISCOVERY TURBO
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162392
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: HISTORY 4K ◉" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_history.png" group-title="UK· DOCUMENTARY",HISTORY
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162378
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: HISTORY 2 4K ◉" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_h2.png" group-title="UK· DOCUMENTARY",HISTORY 2
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162379
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="UK: INVESTIGATION DISCOVERY ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361" group-title="UK· DOCUMENTARY",INVESTIGATION DISCOVERY
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162396
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: LOVE NATURE 4K ◉" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_lovenature.png" group-title="UK· DOCUMENTARY",LOVE NATURE
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162385
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK: SKY NATURE 4K ◉" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/uk_skynature.png" group-title="UK· DOCUMENTARY",SKY NATURE
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/162384
 #EXTINF:-1 tvg-name="#### GENERAL HD/4K ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| GENERAL ᴴᴰ/ᴿᴬᵂ",#### GENERAL HD/4K ####
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1015349
 #EXTINF:-1 tvg-id="itvquiz.uk" tvg-name="UK : ITV QUIZ 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14685.png?50962" group-title="UK| GENERAL ᴴᴰ/ᴿᴬᵂ",UK : ITV QUIZ 4K
