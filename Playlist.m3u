@@ -1155,10 +1155,6 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498778
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498777
 #EXTINF:-1 tvg-id="CBUT.ca" tvg-name="CA: CBC VANCOUVER" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_cbc.png" group-title="CA· CANADA",CBC VANCOUVER
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498776
-#EXTINF:-1 tvg-name="CA: CBS EAST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8363.jpg?22163" group-title="CA· CANADA",CBS EAST
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498775
-#EXTINF:-1 tvg-name="CA: CBS WEST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8363.jpg?22163" group-title="CA· CANADA",CBS WEST
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498774
 #EXTINF:-1 tvg-id="CHCH.ca" tvg-name="CA: CHCH" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_chch.png" group-title="CA· CANADA",CHCH
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498773
 #EXTINF:-1 tvg-name="CA: CITY TV  WINNIPEG HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_city.png" group-title="CA· CANADA",CITY TV  WINNIPEG
@@ -1189,8 +1185,6 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498816
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498765
 #EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA: CRIME & INVESTIGATION" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_crime.png" group-title="CA· CANADA",CRIME & INVESTIGATION
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498763
-#EXTINF:-1 tvg-id="CHRO.ca" tvg-name="CA: CTV 2 OTTAWA" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv2.png" group-title="CA· CANADA",CTV 2 OTTAWA
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498756
 #EXTINF:-1 tvg-id="CTVComedy.ca" tvg-name="CA: CTV Comedy HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV Comedy
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/744354
 #EXTINF:-1 tvg-id="CTVDrama.ca" tvg-name="CA: CTV Drama Channel" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV Drama Channel
@@ -1205,7 +1199,7 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/706429
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498629
 #EXTINF:-1 tvg-id="CTVNC.ca" tvg-name="CA: CTV NEWS NETWORK" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV NEWS NETWORK
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498760
-#EXTINF:-1 tvg-id="CKCK.ca" tvg-name="CA: CTV News Regina HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV News Regina
+#EXTINF:-1 tvg-id="CKCK.ca" tvg-name="CA: CTV News Regina HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV REGINA
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/813889
 #EXTINF:-1 tvg-id="CTVOH.ca" tvg-name="CA: CTV OTTAWA" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV OTTAWA
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498759
@@ -1267,7 +1261,7 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498720
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498718
 #EXTINF:-1 tvg-id="HLN.ca" tvg-name="CA: HLN" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_hln.png" group-title="CA· CANADA",HLN
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498717
-#EXTINF:-1 tvg-name="CA: INVESTIGATION DISCOVERY" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_investigation-dis.png" group-title="CA· CANADA",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-name="CA: INVESTIGATION DISCOVERY" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_investigation-dis.png" group-title="CA· CANADA",INVESTIGATION
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498734
 #EXTINF:-1 tvg-id="LifetimeTV.ca" tvg-name="CA: LIFETIME" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8213.jpg?61430" group-title="CA· CANADA",LIFETIME
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498709
@@ -1295,8 +1289,6 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498693
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498692
 #EXTINF:-1 tvg-id="OMNI2.ca" tvg-name="CA: OMNI 2" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_omni2.png" group-title="CA· CANADA",OMNI 2
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498691
-#EXTINF:-1 tvg-name="CA: ONE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3326.png?75355" group-title="CA· CANADA",ONE
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498690
 #EXTINF:-1 tvg-id="OneSoccer.ca" tvg-name="CA: ONE SOCCER HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3326.png?26626" group-title="CA· CANADA",ONE SOCCER
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/751301
 #EXTINF:-1 tvg-id="OutTV.ca" tvg-name="CA: OUT TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/636.jpg?86052" group-title="CA· CANADA",OUT TV
@@ -1317,8 +1309,6 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498676
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/695096
 #EXTINF:-1 tvg-name="CA: SPACE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11388.png?81532" group-title="CA· CANADA",SPACE
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498674
-#EXTINF:-1 tvg-name="CA: SPIKE TV / PARAMOUNT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/766.png?75278" group-title="CA· CANADA",SPIKE TV / PARAMOUNT
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498673
 #EXTINF:-1 tvg-name="CA: SUPER CHANNEL VAULT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3100.jpg?62229" group-title="CA· CANADA",SUPER CHANNEL VAULT
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498665
 #EXTINF:-1 tvg-name="CA: TCM" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tcm.png" group-title="CA· CANADA",TCM
@@ -1341,14 +1331,6 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498711
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498645
 #EXTINF:-1 tvg-name="CA: WGN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12645.jpg?51000" group-title="CA· CANADA",WGN
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498644
-#EXTINF:-1 tvg-id="NatGeoWild.ca" tvg-name="CA: WILD TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?15154" group-title="CA· CANADA",CA: WILD TV
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498643
-#EXTINF:-1 tvg-name="CA: WSBK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1072.jpg?15545" group-title="CA· CANADA",CA: WSBK
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498642
-#EXTINF:-1 tvg-id="yestv.ca" tvg-name="CA: YES TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14744.png?25573" group-title="CA· CANADA",CA: YES TV
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498641
-#EXTINF:-1 tvg-name="CA: YTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3339.jpg?87482" group-title="CA· CANADA",CA: YTV
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498639
 #EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA EN: A&E CANADA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9712.jpg?88579" group-title="CA· CINEMA EN",A&E CANADA
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414082
 #EXTINF:-1 tvg-name="CA EN: ABC SPARK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12725.jpg?47891" group-title="CA· CINEMA EN",ABC SPARK
@@ -1451,23 +1433,23 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414185
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414098
 #EXTINF:-1 tvg-name="CA EN: CTV VANCOUVER HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· GENERAL",CTV VANCOUVER
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414181
-#EXTINF:-1 tvg-id="ASN.ca" tvg-name="CA EN: CTV2 ATLANTIC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8414.jpg?82972" group-title="CA· GENERAL",CTV2 ATLANTIC
+#EXTINF:-1 tvg-id="ASN.ca" tvg-name="CA EN: CTV2 ATLANTIC HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv2.png" group-title="CA· GENERAL",CTV2 ATLANTIC
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414114
 #EXTINF:-1 tvg-id="CKVR.ca" tvg-name="CA EN: CTV2 BARRIE HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv2.png" group-title="CA· GENERAL",CTV2 BARRIE
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498300
 #EXTINF:-1 tvg-id="CFPL.ca" tvg-name="CA EN: CTV2 LONDON HD(R)" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv2.png" group-title="CA· GENERAL",CTV2 LONDON
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414113
+#EXTINF:-1 tvg-id="CHRO.ca" tvg-name="CA: CTV 2 OTTAWA" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv2.png" group-title="CA· GENERAL",CTV2 OTTAWA
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498756
 #EXTINF:-1 tvg-name="CA EN: CTV2 WINDSOR HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv2.png" group-title="CA· GENERAL",CTV2 WINDSOR
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414184
 #EXTINF:-1 tvg-id="Dtour.ca" tvg-name="CA EN: DTOUR HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_dtour.png" group-title="CA· GENERAL",DTOUR
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414207
-#EXTINF:-1 tvg-name="CA EN: ENGLISH CLUB TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6338.jpg?93313" group-title="CA· GENERAL",ENGLISH CLUB TV
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414049
-#EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-name="CA EN: FOOD NETWORK HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?14020" group-title="CA· GENERAL",FOOD NETWORK
+#EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-name="CA EN: FOOD NETWORK HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_foodnetwork.png" group-title="CA· GENERAL",FOOD NETWORK
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414199
 #EXTINF:-1 tvg-name="CA EN: FX HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_fx.png" group-title="CA· GENERAL",FX
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414157
-#EXTINF:-1 tvg-name="CA EN: GAME TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1902.jpg?59339" group-title="CA· GENERAL",GAME TV
+#EXTINF:-1 tvg-name="CA EN: GAME TV HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_gametv.png" group-title="CA· GENERAL",GAME TV
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414162
 #EXTINF:-1 tvg-name="CA EN: GLOBAL MONTREAL" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_global.png" group-title="CA· GENERAL",GLOBAL MONTREAL
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414050
@@ -1489,7 +1471,7 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414108
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414167
 #EXTINF:-1 tvg-id="MTV.ca" tvg-name="CA EN: MTV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?23929" group-title="CA· GENERAL",MTV
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414136
-#EXTINF:-1 tvg-id="MuchMusic.ca" tvg-name="CA EN: MUCH_MUSIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3912.png?78434" group-title="CA· GENERAL",MUCH_MUSIC
+#EXTINF:-1 tvg-id="MuchMusic.ca" tvg-name="CA EN: MUCH_MUSIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3912.png?78434" group-title="CA· GENERAL",MUCH MUSIC
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414135
 #EXTINF:-1 tvg-id="OMNI2.ca" tvg-name="CA EN: OMNI 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1015.jpg?77407" group-title="CA· GENERAL",OMNI 2
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414133
@@ -1497,11 +1479,11 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414133
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414188
 #EXTINF:-1 tvg-id="Slice.ca" tvg-name="CA EN: SLICE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6419.jpg?30441" group-title="CA· GENERAL",SLICE
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414197
-#EXTINF:-1 tvg-name="CA EN: SYFY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?6440" group-title="CA· GENERAL",SYFY
+#EXTINF:-1 tvg-name="CA EN: SYFY" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_syfy.png" group-title="CA· GENERAL",SYFY
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414052
-#EXTINF:-1 tvg-name="CA EN: THE COOKING CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8272.jpg?5907" group-title="CA· GENERAL",THE COOKING CHANNEL
+#EXTINF:-1 tvg-name="CA EN: THE COOKING CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8272.jpg?5907" group-title="CA· GENERAL",COOKING CHANNEL
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414187
-#EXTINF:-1 tvg-name="CA EN: TLC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1421.png?88361" group-title="CA· GENERAL",TLC
+#EXTINF:-1 tvg-name="CA EN: TLC" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_tlc.png" group-title="CA· GENERAL",TLC
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414111
 #EXTINF:-1 tvg-name="CA EN: VISION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8317.png?21700" group-title="CA· GENERAL",VISION
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414192
