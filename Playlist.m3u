@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_sn.png" group-title="CA· MY GROUP",SPORTSNET 360 ¹
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1239005
 #EXTINF:-1 tvg-name="AMZ -  A Chorus Line (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3emEMcdrABPkFR66ruYRCrbj7u7.jpg" group-title="AMAZON MOVIES",AMZ -  A Chorus Line (1985)
 https://operator2.fikar.xyz/movie/3w4cj593l3/6a2r5932au/1307823.mkv
 #EXTINF:-1 tvg-name="AMZ -  A Hipster in Rural Spain (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJyqvQ165U1OWDefxXWaIqpFnvu.jpg" group-title="AMAZON MOVIES",AMZ -  A Hipster in Rural Spain (2024)
@@ -1125,7 +1127,7 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1231872
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1148306
 #EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA EN: GLOBAL TORONTO HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_global.png" group-title="CA· CANADA",GLOBAL TORONTO
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1709470
-#EXTINF:-1 tvg-id="ctvsudbury.ca" tvg-name="CA:  CTV Sudbury HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV Sudbury
+#EXTINF:-1 tvg-id="ctvsudbury.ca" tvg-name="CA:  CTV Sudbury HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV SUDBURY
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/771089
 #EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA: A & E" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1877.jpg?61333" group-title="CA· CANADA",A & E
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498798
@@ -1185,15 +1187,15 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498816
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498765
 #EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA: CRIME & INVESTIGATION" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_crime.png" group-title="CA· CANADA",CRIME & INVESTIGATION
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498763
-#EXTINF:-1 tvg-id="CTVComedy.ca" tvg-name="CA: CTV Comedy HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV Comedy
+#EXTINF:-1 tvg-id="CTVComedy.ca" tvg-name="CA: CTV Comedy HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV COMEDY
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/744354
-#EXTINF:-1 tvg-id="CTVDrama.ca" tvg-name="CA: CTV Drama Channel" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV Drama Channel
+#EXTINF:-1 tvg-id="CTVDrama.ca" tvg-name="CA: CTV Drama Channel" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV DRAMA
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/611721
 #EXTINF:-1 tvg-id="CFCF.ca" tvg-name="CA: CTV MONTREAL HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV MONTREAL
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1245815
 #EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="CA: CTV NATURE CANADA" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV NATURE CANADA
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498751
-#EXTINF:-1 tvg-name="CA: CTV News Edmonton HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV News Edmonton
+#EXTINF:-1 tvg-name="CA: CTV News Edmonton HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV EDMONTON
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/706429
 #EXTINF:-1 tvg-name="CA: CTV NEWS MONTREAL" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV NEWS MONTREAL
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498629
@@ -1207,7 +1209,7 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498759
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/1196705
 #EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-name="CA: CTV SCIFI HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV SCI-FI
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498733
-#EXTINF:-1 tvg-name="CA: CTV Timmins HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV Timmins
+#EXTINF:-1 tvg-name="CA: CTV Timmins HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV TIMMINS
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/771088
 #EXTINF:-1 tvg-id="CTVHT.ca" tvg-name="CA: CTV TORONTO" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_ctv.png" group-title="CA· CANADA",CTV TORONTO
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498758
@@ -1217,14 +1219,12 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498754
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498753
 #EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA: DISCOVERY CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14077.png?26906" group-title="CA· CANADA",DISCOVERY CANADA
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498752
-#EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="CA: DISNEY CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/634.jpg?92922" group-title="CA· CANADA",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="CA: DISNEY CHANNEL" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_disney.png" group-title="CA· CANADA",DISNEY CHANNEL
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498750
-#EXTINF:-1 tvg-id="DisneyJunior.ca" tvg-name="CA: DISNEY JUNIOR" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?90527" group-title="CA· CANADA",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior.ca" tvg-name="CA: DISNEY JUNIOR" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_disney.png" group-title="CA· CANADA",DISNEY JUNIOR
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498748
 #EXTINF:-1 tvg-name="CA: DIY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13320.jpg?85662" group-title="CA· CANADA",DIY
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498747
-#EXTINF:-1 tvg-id="DocumentaryChannel.ca" tvg-name="CA: DOCUMENTARY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12440.png?38880" group-title="CA· CANADA",DOCUMENTARY
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498746
 #EXTINF:-1 tvg-id="Dtour.ca" tvg-name="CA: DTOUR" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_dtour.png" group-title="CA· CANADA",DTOUR
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/498745
 #EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-name="CA: FOOD NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?91255" group-title="CA· CANADA",FOOD NETWORK
@@ -1349,22 +1349,22 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414064
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414109
 #EXTINF:-1 tvg-id="AnimalPlanet.ca" tvg-name="CA EN: ANIMAL PLANET HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?10765" group-title="CA· DOCUMENTARY",ANIMAL PLANET
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414083
-#EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA EN: CRIME + INVERSTIGATION" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?7537" group-title="CA· DOCUMENTARY",CRIME + INVERSTIGATION
+#EXTINF:-1 tvg-id="CrimeInvestigation.ca" tvg-name="CA EN: CRIME + INVERSTIGATION" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?7537" group-title="CA· DOCUMENTARY",CRIME INVESTIGATION
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414073
-#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA EN: NATIONAL GEOGRAPHIC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?97881" group-title="CA· DOCUMENTARY",NAT GEOGRAPHIC
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414080
 #EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA EN: DISCOVERY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?24942" group-title="CA· DOCUMENTARY",DISCOVERY
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414076
-#EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="CA EN: DISCOVERY VELOCITY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8269.jpg?3946" group-title="CA· DOCUMENTARY",DISCOVERY VELOCITY
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414078
-#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA EN: HISTORY HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_history.png" group-title="CA· DOCUMENTARY",HISTORY
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414091
 #EXTINF:-1 tvg-name="CA EN: DISCOVERY SCIENCE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?49458" group-title="CA· DOCUMENTARY",DISCOVERY SCIENCE
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414077
-#EXTINF:-1 tvg-name="CA EN: H2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?76403" group-title="CA· DOCUMENTARY",H2
+#EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="CA EN: DISCOVERY VELOCITY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8269.jpg?3946" group-title="CA· DOCUMENTARY",DISCOVERY VELOCITY
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414078
+#EXTINF:-1 tvg-name="CA EN: H2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?76403" group-title="CA· DOCUMENTARY",H2 HISTORY
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414090
-#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA EN: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?10713" group-title="CA· DOCUMENTARY",NAT GEOGRAPHIC WILD
+#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA EN: HISTORY HD" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/ca_history.png" group-title="CA· DOCUMENTARY",HISTORY
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414091
+#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA EN: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?10713" group-title="CA· DOCUMENTARY",NAT GEO WILD
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414081
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA EN: NATIONAL GEOGRAPHIC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?97881" group-title="CA· DOCUMENTARY",NAT GEOGRAPHIC
+https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414080
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA EN: AMC 4K" tvg-logo="https://raw.githubusercontent.com/maxter1986/IPTV/refs/heads/main/Logos/us_amc.png" group-title="CA· GENERAL",AMC
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414092
 #EXTINF:-1 tvg-id="APTN.ca" tvg-name="CA EN: APTN HD (CA)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5992.jpg?91481" group-title="CA· GENERAL",APTN
@@ -1493,20 +1493,18 @@ https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414106
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414193
 #EXTINF:-1 tvg-id="yestv.ca" tvg-name="CA EN: YES TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3318.jpg?42789" group-title="CA· GENERAL",YES TV
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414191
-#EXTINF:-1 tvg-name="CA EN:  DISNEY CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/628.jpg?12539" group-title="CA· KIDS",DISNEY CHANNEL HD
+#EXTINF:-1 tvg-name="CA EN:  DISNEY CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/628.jpg?12539" group-title="CA· KIDS",DISNEY CHANNEL
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414086
-#EXTINF:-1 tvg-id="CartoonNetwork.ca" tvg-name="CA EN: CARTOON NETWORK HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/752.png?76013" group-title="CA· KIDS",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="CartoonNetwork.ca" tvg-name="CA EN: CARTOON NETWORK HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/752.png?76013" group-title="CA· KIDS",CARTOON NETWORK
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414089
-#EXTINF:-1 tvg-id="DisneyJunior.ca" tvg-name="CA EN: DISNEY JUNIOR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?96987" group-title="CA· KIDS",DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="DisneyJunior.ca" tvg-name="CA EN: DISNEY JUNIOR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?96987" group-title="CA· KIDS",DISNEY JUNIOR
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414087
-#EXTINF:-1 tvg-id="DisneyXD.ca" tvg-name="CA EN: DISNEY XD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/759.png?15979" group-title="CA· KIDS",DISNEY XD HD
+#EXTINF:-1 tvg-id="DisneyXD.ca" tvg-name="CA EN: DISNEY XD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/759.png?15979" group-title="CA· KIDS",DISNEY XD
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414088
-#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA EN: FXX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8228.jpeg?18504" group-title="CA· KIDS",FXX HD
+#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA EN: FXX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8228.jpeg?18504" group-title="CA· KIDS",FXX
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414158
 #EXTINF:-1 tvg-name="CA EN: LUDIKIDS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9848.jpg?49492" group-title="CA· KIDS",LUDIKIDS
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414051
-#EXTINF:-1 tvg-id="SilverScreenClassics.ca" tvg-name="CA EN: SILVER SCREEN CLASSICS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7743.jpg?69424" group-title="CA· KIDS",SILVER SCREEN CLASSICS HD
-https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414065
 #EXTINF:-1 tvg-id="Teletoon.ca" tvg-name="CA EN: TELETOON" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?7371" group-title="CA· KIDS",TELETOON
 https://operator2.fikar.xyz/3w4cj593l3/6a2r5932au/414053
 #EXTINF:-1 tvg-name="CA EN: TREE HOUSE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6603.jpg?23881" group-title="CA· KIDS",TREE HOUSE
